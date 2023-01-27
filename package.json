@@ -1,0 +1,20 @@
+{
+  "name": "sentry-crash-unhandled-promise-rejection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "jiti index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/node": "^7.34.0",
+    "axios": "^1.2.5",
+    "connect": "^3.7.0",
+    "jiti": "^1.16.2"
+  },
+  "devDependencies": {
+    "@types/connect": "^3.4.35"
+  }
+}
